@@ -3,7 +3,7 @@
 //  Demo_CoreAnimation
 //
 //  Created by yeetai on 16/2/27.
-//  Copyright © 2016年 yeetai. All rights reserved.
+//  Copyright © 2016年 xbgph. All rights reserved.
 //
 
 #import "AppDelegate.h"
